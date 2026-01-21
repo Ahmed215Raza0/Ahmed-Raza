@@ -1,4 +1,4 @@
-# Ahmed Raza’s Personal Portfolio
+# Ahmed Raza Personal Portfolio
 
 This project is a personal portfolio website created to showcase my skills, academic projects, and contact information. It serves as a comprehensive online resume to display my work.
 
