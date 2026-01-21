@@ -3,9 +3,8 @@
 This project is a personal portfolio website created to showcase my skills, academic projects, and contact information. It serves as a comprehensive online resume to display my work.
 
 ### Technologies Used:
-* **HTML5 & CSS3:** For structure and responsive styling.
+* **HTML5& CSS:** For structure and responsive styling.
 * **JavaScript:** For adding interactive features to the site.
-* **Tailwind CSS:** For efficient and modern styling.
 * **GitHub Pages:** For hosting the live website.
 
 ### Instructions for Running Locally:
